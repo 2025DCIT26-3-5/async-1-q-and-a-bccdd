@@ -1,10 +1,10 @@
 # Hello World
 
 ## Question
-
+What does the “Hello World” example show?
 ## Answer
-
-
+How React works without build tools.
+De Vela, Cristine Mae F.
 
 
 # Interactive Counter
